@@ -1,5 +1,5 @@
 fun main(){
-    //Array methods
+    //Array methods.
     //sort()
 
     val simpsonsA = arrayOf("Homer","Marge","Bart","Lisa","Meggie")
