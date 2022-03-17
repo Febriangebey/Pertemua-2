@@ -1,5 +1,5 @@
 fun main(){
-    //Array
+    //Array.
 
     var arrA = arrayOf<Int>()
 
